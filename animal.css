@@ -1,0 +1,17 @@
+#a:hover{
+    background-color:green;
+    color:white;
+
+}
+#cat{
+  padding:20px;
+  width: 1000px;
+  height: 700px;
+  display: none;  
+}
+#monkey{
+    padding:20px;
+    width: 1000px;
+    height: 700px;
+    display: none; 
+}
